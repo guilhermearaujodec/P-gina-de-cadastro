@@ -1,0 +1,2 @@
+Manypixels = imagens svg
+cdnjs = icones
